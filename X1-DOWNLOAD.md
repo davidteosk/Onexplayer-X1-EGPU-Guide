@@ -15,7 +15,6 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
 
 ## AMD ADRENLINA DRIVERS 24.4.1
-AMD Software: Adrenalin Edition 24.4.1
 https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.4.1-win10-win11-apr25-rdna.exe
 
 ## OXP English and Chinese Support Site
