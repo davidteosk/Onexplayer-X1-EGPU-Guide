@@ -2,6 +2,7 @@
 
 1. DISABLE FAST BOOT IN BIOS
 2. DISABLE FAST STARTUP IN WINDOWS
+
 ![Windows-faststartup](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/91c41ad9-6522-45ee-bdab-a53278fe26ff)
 
 
