@@ -5,6 +5,6 @@ This guide will constantly be updated with new information as it becomes availab
 
 [BIOS 242 + EC065](../main/BIOS242EC065.md)
 
-[EC PATCH 065oxc](../main/EC PATCH 065oxc)
+[EC PATCH 065oxc](../main/EC-PATCH-065oxc)
 
 [[X1 DOWNLOAD]]
