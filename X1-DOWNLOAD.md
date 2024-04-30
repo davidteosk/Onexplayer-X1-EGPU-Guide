@@ -14,13 +14,15 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 
 ## OXP English and Chinese Support Site
 
-#### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
+## ONEXCONSOLE: LATEST 0.7.8
+https://app.onexconsole.com/web/agg/app:download
 
+### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i-Drivers1.0.zip
-#### Harman App + others (no clue how to use/install this)
+### Harman App + others (no clue how to use/install this)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
 
-#### X1 WinPE Image System (no clue how to use/install this WinPE image)
+### X1 WinPE Image System (no clue how to use/install this WinPE image)
 https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
 
 .
