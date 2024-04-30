@@ -9,8 +9,14 @@ This link contains Drivers and Software related to X1 usage.
 - Megas.nz shared drive is limited to 1G download per ip address. Please do not start downloading the whole thing.
 - If the link asking for encription. use this:  B8eUwVai1gKcciM46CCaBQ
 
-
 It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Drivers, plus other useful software that is required during troubleshooting.
+
+## INTEL ARC DRIVERS (Current Latest Only)
+https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
+
+## AMD ADRENLINA DRIVERS 24.4.1
+AMD Software: Adrenalin Edition 24.4.1
+https://drivers.amd.com/drivers/whql-amd-software-adrenalin-edition-24.4.1-win10-win11-apr25-rdna.exe
 
 ## OXP English and Chinese Support Site
 
