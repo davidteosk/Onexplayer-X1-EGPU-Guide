@@ -1,4 +1,4 @@
-# BIOS 2.42 + EC 0.65
+# BIOS (OXC OFFICIAL VERSION) 2.42 + EC 0.65
 ## BIOS 2.42
 1. Optimize the Oculink interface to connect the graphics card dock to improve stability
 2. Enable Intel Intelligent Dynamic Mode (DTT)
