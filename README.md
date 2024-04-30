@@ -11,4 +11,4 @@ This guide will constantly be updated with new information as it becomes availab
 
 [eGPU Installation Guide](../main/eGPU-install.md)
 
-[eGPU Troubleshooting](../main/eGPU-install.md)
+[eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
