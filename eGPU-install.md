@@ -14,7 +14,7 @@ This installation apples to egpu installs guide for either USB4 / Oculink / USB4
 
 
 3. Device Manager shows two graphic devices installed and working.
-![[Pasted image 20240429062648.png]]
+![Pasted image 20240429062648](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/6d748423-bcbd-4693-b6a3-58af0590ad0b)
 
 Download Preparation
 1. DDU  --  
