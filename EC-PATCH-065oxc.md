@@ -16,7 +16,12 @@ _**REQUIRES TO FLASH TO THE LATEST BIOS 2.42 AND EC FIRST
 [newX1-ECpatch-V065oxc-26032024.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15167367/newX1-ECpatch-V065oxc-26032024.zip)
 
 ## VIDEO GUIDE - from OXP
+YouTube
+ONE-NETBOOK
+The latest BIOS for the three-in-one PC, OneXPlayer X1 has arrived
 https://www.youtube.com/watch?v=XRfVzZhCcHs&t=7s
+![maxresdefault](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/a5c5de25-6bc1-4789-9fd5-dc733d75164b)
+
 
 ## Installation Instruction
 
