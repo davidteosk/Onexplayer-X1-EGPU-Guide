@@ -7,4 +7,6 @@ This guide will constantly be updated with new information as it becomes availab
 
 [EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
 
-[[X1 DOWNLOAD]](../main/X1-DOWNLOAD.md)
+[X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
+
+[eGPU Installation Guide](../main/eGPU-install.md)
