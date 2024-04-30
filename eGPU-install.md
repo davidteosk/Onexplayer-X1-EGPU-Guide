@@ -20,3 +20,8 @@ Download Preparation
 1. DDU  --  
 2. AMD Adrenlina Driver Full Package
 3. Intel Arc Driver Full Package
+
+
+
+...
+[Onexplayer X1 and EGPU Guide](../main/README.md)
