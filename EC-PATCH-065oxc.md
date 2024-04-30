@@ -38,4 +38,4 @@ https://cdn.discordapp.com/attachments/1185136883278295100/1232677512195084311/n
 	- unfortunately the version is still the same as the prior.
 	- but the behavior of booting is much more faster than before.
 
-[[Onexplayer X1 and EGPU Guide]]
+[Onexplayer X1 and EGPU Guide]
