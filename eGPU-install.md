@@ -10,9 +10,10 @@ This installation apples to egpu installs guide for either USB4 / Oculink / USB4
 ## What you see after a successful installation.
 
 1. Task Manager shows two graphics driver installed and working. see screenshots.
-![[Pasted image 20240429062410.png]]
+![Pasted image 20240429062410](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/b5680b8f-94dd-4971-8bdc-ef7229bf5a6a)
 
-2. Device Manager shows two graphic devices installed and working.
+
+3. Device Manager shows two graphic devices installed and working.
 ![[Pasted image 20240429062648.png]]
 
 Download Preparation
