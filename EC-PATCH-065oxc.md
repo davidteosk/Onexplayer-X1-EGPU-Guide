@@ -11,7 +11,10 @@ _**REQUIRES TO FLASH TO THE LATEST BIOS 2.42 AND EC FIRST
 3. Improved and more accurate Thermal Control for Both manual TDP control and Intel Dynamic TDP control.
 4. Improved Battery Charging - resolving old unable to charge issue with X1 due to setting TDP at 35 watt.
 ## Download
-https://cdn.discordapp.com/attachments/1185136883278295100/1232677512195084311/newX1-ECpatch-V065oxc-26032024.zip?ex=662e4864&is=662cf6e4&hm=4dcd8c2dd160157e28ec9a427c6696c829773fe6736696bb8c0f1da718ed7092&
+
+[newX1-ECpatch-V065oxc-26032024.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15167367/newX1-ECpatch-V065oxc-26032024.zip)
+
+
 ## Installation Instruction
 
 - Required a USB flash disk >1GB such as (2G/8GB/16GB/32GB)
