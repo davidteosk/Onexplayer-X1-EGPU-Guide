@@ -1,4 +1,4 @@
-# EC PATCH 0.65oxc (optimize external connection)
+# EC PATCH 0.65oxc
 Issues and bug was observed on the EC version 0.65. This patches provide a quick fix to the EC to 0.65oxc
 
 EC (Embedded Controller Version 0.65oxc ONLY GM15_DPTE_OX04_VER41.bin last dated modified: 26/March/2024 3:35pm
