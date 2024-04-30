@@ -24,7 +24,8 @@ _**REQUIRES TO FLASH TO THE LATEST BIOS 2.42 AND EC FIRST
 
 1. CREATE or FORMAT FAT32 partition on the USB disk with label --> SHELL
 2. Copy all the files into the SHELL drive. Total of 2 folders and 3 files from the root directory view.
-![[Pasted image 20240429045841.png]]
+![Pasted image 20240429045731](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/13f12bec-f64f-47ee-a218-070ca6acae32)
+
 4. With the USB flash disk in your USB dock or usb4 interface, reboot windows to BIOS.
 5. Press ESC or Delete key to enter BIOS
 6. Go to the BOOT tab. Change boot sequence for #1 to Built-in EFI shell or USB DISK.
