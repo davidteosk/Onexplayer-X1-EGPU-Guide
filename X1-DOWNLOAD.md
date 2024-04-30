@@ -10,7 +10,7 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 
 ## OXP English and Chinese Support Site
 
-#### X1 Full Drivers Package for New Windows Installation:
+#### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
 
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i-Drivers1.0.zip
 #### Harman App + others (no clue how to use/install this)
