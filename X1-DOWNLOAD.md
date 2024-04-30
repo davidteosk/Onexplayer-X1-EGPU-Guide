@@ -20,4 +20,6 @@ https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
 https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
 
 
+
+
 [Onexplayer X1 and EGPU Guide](../main/README.md)
