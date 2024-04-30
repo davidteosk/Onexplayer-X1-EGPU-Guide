@@ -5,6 +5,9 @@ https://mega.nz/folder/HAMSwQ4a#B8eUwVai1gKcciM46CCaBQ
 
 This link contains Drivers and Software related to X1 usage.
 " i have complied and backup all the necessary X1 files for convenience sake. helps in other slow in download. Use at your own risk. I will not be responsible for any damage, virus, or data loses "
+** Megas.nz shared driver is limited to 1G download per ip address. Please do not start downloading the whole thing.
+** If the link asking for encription. use this:  B8eUwVai1gKcciM46CCaBQ
+
 
 It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Drivers, plus other useful software that is required during troubleshooting.
 
