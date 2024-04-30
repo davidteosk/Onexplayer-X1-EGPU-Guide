@@ -23,7 +23,7 @@ _**REQUIRES TO FLASH TO THE LATEST BIOS 2.42 AND EC FIRST
 - Use Disk management to create a FAT32 Partition with 32BG partition.
 
 1. CREATE or FORMAT FAT32 partition on the USB disk with label --> SHELL
-![image](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/776fbc99-1d4f-421d-bf47-596e81faba76)
+![image](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/3bd1fce6-13d1-4979-8844-c84b0d22fb27)
 
 3. Copy all the files into the SHELL drive. Total of 2 folders and 3 files from the root directory view.
 ![Pasted image 20240429045731](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/13f12bec-f64f-47ee-a218-070ca6acae32)
