@@ -16,6 +16,7 @@ _**REQUIRES TO FLASH TO THE LATEST BIOS 2.42 AND EC FIRST
 [newX1-ECpatch-V065oxc-26032024.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15167367/newX1-ECpatch-V065oxc-26032024.zip)
 
 ## VIDEO GUIDE - from OXP
+https://img.youtube.com/vi/XRfVzZhCcHs&t/1.jpg
 https://www.youtube.com/watch?v=XRfVzZhCcHs&t=7s
 
 ## Installation Instruction
