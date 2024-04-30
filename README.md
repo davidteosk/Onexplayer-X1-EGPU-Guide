@@ -10,3 +10,5 @@ This guide will constantly be updated with new information as it becomes availab
 [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
 [eGPU Installation Guide](../main/eGPU-install.md)
+
+[eGPU Troubleshooting](../main/eGPU-install.md)
