@@ -1,6 +1,9 @@
 # BIOS -- Windows OS Factory Recovery
 If your wish to reset your X1 back to Windows Factory Shipped, here is how it can be done via BIOS OS RECOVERY.
 
+# VIDEO
+https://www.youtube.com/watch?v=xaRdeW-V8GQ
+
 1. Enter BIOS by hiiting ESC/DEL keyboard when you turn on the device.
 2. Goto Security and Disable Windows Secure Boot.
 ![securedboot-off](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/e2ef3c06-da9a-4aab-8311-8dcb670eca76)
