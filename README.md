@@ -16,3 +16,5 @@ This guide will constantly be updated with new information as it becomes availab
 [Battery-Protection-Fix](../main/Battery-Protection-Fix.md)
 
 [Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
+
+BIOS -- Windows OS Factory Recovery
