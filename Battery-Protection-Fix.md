@@ -24,6 +24,8 @@ Lithium batteries have a built-in battery management system (BMS) offering peach
 - Battery protection mode signals an adverse or unsafe condition.
 - Your battery won’t come out of protection mode until that condition passes.
 - In most cases, you need to wait for the condition to pass. ~ 8 to 12hrs.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
 - Disconnect ALL external devices.
 - Put the X1 to your main charger only.
 
