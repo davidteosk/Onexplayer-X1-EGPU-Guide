@@ -12,3 +12,15 @@ Warning and Preparation
 ![UEFI-OS](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/7c80f85b-bec0-4d91-8137-c07f5136ea66)
 
 5. SAVE AND EXIT
+6. When the system starts, Windows Logo will appear and you reach a blue screen windows looks like this:-
+PLEASE BECAREFUL OF MOUSE CLICK OR KEYBOARD PRESS!!! If you press or click the START, there is no rescue but to let it continue the windows factory recovery.
+
+
+7. Touch or Mouse click the START button to start the recovery process.
+8. When all is done, it will boots to a fresh factory Windows again.
+
+
+.
+.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
