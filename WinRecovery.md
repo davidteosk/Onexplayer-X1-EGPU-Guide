@@ -2,6 +2,15 @@
 If your wish to reset your X1 back to Windows Factory Shipped, here is how it can be done via BIOS OS RECOVERY.
 
 # VIDEO
+YouTube
+ONE-NETBOOK
+Please keep the charger connect, or make sure device battery 60% more. Function not available when battery low.
+Step 1 Press the Power button for 2 seconds to boot the device on.
+Step 2 Press the Turbo button to enter BIOS UI.
+Step 3 Press the shortcut [Mode] 1.5 seconds to activate the keyboard and mouse mode. Choose “UEFI OS (SSD)” by D-pad.
+Step 4 Press “Start” to choose quick restore function.
+Step 5 Click “Start” to restore.
+
 https://www.youtube.com/watch?v=xaRdeW-V8GQ
 
 1. Enter BIOS by hiiting ESC/DEL keyboard when you turn on the device.
