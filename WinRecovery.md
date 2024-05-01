@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=xaRdeW-V8GQ
 
 ![quickrestorefunction](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/9e765bd7-97bb-4227-bf32-4674a0a7ec2d)
 
+
+
 # INSTRUCTION GUIDE
 1. Enter BIOS by hiiting ESC/DEL keyboard when you turn on the device.
 2. Goto Security and Disable Windows Secure Boot.
