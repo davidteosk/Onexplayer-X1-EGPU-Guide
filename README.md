@@ -3,18 +3,18 @@ A guide covering Onexplayer X1 including the applications and tools that will ma
 This guide will constantly be updated with new information as it becomes available.
 # Table of Content
 
-[BIOS 242 + EC065](../main/BIOS242EC065.md)
+- [BIOS 242 + EC065](../main/BIOS242EC065.md)
 
-[EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
+- [EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
 
-[X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
+- [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
-[eGPU Installation Guide](../main/eGPU-install.md)
+- [eGPU Installation Guide](../main/eGPU-install.md)
 
-[eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
+- [eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
 
-[Battery-Protection-Fix](../main/Battery-Protection-Fix.md)
+- [Battery-Protection-Fix](../main/Battery-Protection-Fix.md)
 
-[Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
+- [Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
 
-BIOS -- Windows OS Factory Recovery
+- [BIOS WINDOWS RECOVERY](../main/WinRecovery)
