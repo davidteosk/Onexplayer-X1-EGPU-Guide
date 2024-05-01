@@ -17,4 +17,4 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
 
-- [BIOS WINDOWS RECOVERY](../main/WinRecovery)
+- [BIOS WINDOWS RECOVERY](../main/WinRecovery.md)
