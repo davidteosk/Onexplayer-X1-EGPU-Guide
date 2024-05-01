@@ -14,7 +14,7 @@ Warning and Preparation
 5. SAVE AND EXIT
 6. When the system starts, Windows Logo will appear and you reach a blue screen windows looks like this:-
 
-PLEASE BECAREFUL OF MOUSE CLICK OR KEYBOARD PRESS!!! If you press or click the START button accidentically, there is no rescue but to let it continue the windows factory recovery.
+# PLEASE BECAREFUL OF MOUSE CLICK OR KEYBOARD PRESS!!! If you press or click the START button accidentically, there is no rescue but to let it continue the windows factory recovery.
 ![RECOVERYBLUESCREEN](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/d47a1b17-e32e-4833-ba76-3aac8330c80c)
 
 8. Touch or Mouse click the START button to start the recovery process.
