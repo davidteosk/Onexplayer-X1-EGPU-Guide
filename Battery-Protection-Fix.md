@@ -20,3 +20,8 @@ Lithium batteries have a built-in battery management system (BMS) offering peach
 - Wire insulation breakdown
 - Defective battery fan
 
+# What to Do if Your Lithium Battery Goes Into Protection Mode
+- Battery protection mode signals an adverse or unsafe condition.
+- Your battery won’t come out of protection mode until that condition passes.
+- In most cases, you need to wait for the condition to pass. ~ 8 to 12hrs.
+- The battery will turn itself back on when it’s safe to operate.
