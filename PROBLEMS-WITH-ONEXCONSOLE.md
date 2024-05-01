@@ -1,4 +1,4 @@
-# Problems with ONEXCONSOLE
+# PROBLEMS WITH ONEXCONSOLE
 --> Cannot Run, needs uninstallation.
 --> TDP is stuck at certain wattage only causing slow FPS.
 --> AV shows false posive detected. You need to setup your AV to exclude Onexcosole executable or directory.
