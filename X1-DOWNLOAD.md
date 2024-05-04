@@ -37,6 +37,16 @@ https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
 [GM15-ONEXPLAYER-X1-i-BatteryTool.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210218/GM15-ONEXPLAYER-X1-i-BatteryTool.zip)
 README DOC for Battery FIX TOOLS
 
+### KEYBOARD CHANGE ( ONE WAY MODE, CANNOT CHANGE BACK FROM FACTORY SHIP MODE)
+#### F1 to function as F1 by Default instead of FN+F1 by default
+[X1_Keyboard_DisableFN.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210244/X1_Keyboard_DisableFN.zip)
+Flashing Steps:
+1. Unzip the folder to the desktop (Make sure to remove the magnetic keyboard first).
+2. Run "USB Upgrade Tool 2.1.exe".
+3. Connect the magnetic keyboard after the flashing program pops up.
+4. The automatic flashing process will start, wait for the progress to reach 100%.
+5. After flashing is complete,close the tool and then remove the magnetic keyboard, and reconnect it for the changes to take effect.
+
 .
 .
 
