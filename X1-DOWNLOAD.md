@@ -36,6 +36,7 @@ https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
 ### BATTERY FIX TOOLS FOR BATTERY UNABLE TO CHARGE ON X1 ONLY
 [GM15-ONEXPLAYER-X1-i-BatteryTool.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210218/GM15-ONEXPLAYER-X1-i-BatteryTool.zip)
 README DOC for Battery FIX TOOLS
+[GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210280/GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf)
 
 ### KEYBOARD CHANGE ( ONE WAY MODE, CANNOT CHANGE BACK FROM FACTORY SHIP MODE)
 #### F1 to function as F1 by Default instead of FN+F1 by default
