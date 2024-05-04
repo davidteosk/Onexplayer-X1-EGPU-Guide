@@ -11,7 +11,10 @@ This link contains Drivers and Software related to X1 usage.
 
 It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Drivers, plus other useful software that is required during troubleshooting.
 
-## INTEL ARC DRIVERS (Current Latest Only)
+## Display Driver Uninstaller (DDU) download version 18.0.7.6 (guru3d, site might be slow)
+https://www.guru3d.com/download/display-driver-uninstaller-download/
+
+## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5445
 https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
 
 ## AMD ADRENLINA DRIVERS 24.4.1
@@ -29,6 +32,10 @@ https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
 
 ### X1 WinPE Image System (no clue how to use/install this WinPE image)
 https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
+
+### BATTERY FIX TOOLS FOR BATTERY UNABLE TO CHARGE ON X1 ONLY
+[GM15-ONEXPLAYER-X1-i-BatteryTool.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210218/GM15-ONEXPLAYER-X1-i-BatteryTool.zip)
+README DOC for Battery FIX TOOLS
 
 .
 .
