@@ -22,7 +22,7 @@ https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-4-
 
 ## OXP English and Chinese Support Site
 
-## ONEXCONSOLE: LATEST 0.7.8
+## ONEXCONSOLE: LATEST 0.7.9 (newly updated: 7th May 2024 
 https://app.onexconsole.com/web/agg/app:download
 
 ### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
