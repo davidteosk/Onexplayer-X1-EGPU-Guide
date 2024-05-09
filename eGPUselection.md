@@ -6,4 +6,5 @@ This list is of no priority or selection. It is what user have purchase or recom
 1. OCuP4V2
     Link: https://www.aliexpress.us/item/1005006846792423.html?spm=a2g0o.order_list.order_list_main.5.56c1180227ww0L&gatewayAdapt=4itemAdapt
     
-https://ae01.alicdn.com/kf/S1c9144083bd54559815938a889961986L/OCuP4V2-OCuLink-GPU-Dock-with-ReDriver-Chip-Optional-NVME-M-2-to-OCulink-Adapterfor-Laptop-Mini.jpg_.webp
+![OCuP4V2-OCuLink-GPU-Dock-with-ReDriver-Chip-Optional-NVME-M-2-to-OCulink-Adapterfor-Laptop-Mini jpg_](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/f5b3f488-b107-4170-aca9-2becda1a7db6)
+
