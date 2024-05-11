@@ -14,7 +14,7 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 ## Display Driver Uninstaller (DDU) download version 18.0.7.6 (guru3d, site might be slow)
 https://www.guru3d.com/download/display-driver-uninstaller-download/
 
-## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5445
+## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5448
 https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
 
 ## AMD ADRENLINA DRIVERS 24.4.1
