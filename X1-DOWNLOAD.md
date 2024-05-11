@@ -30,10 +30,10 @@ v0.7.10
 - Fixed the problem that the front end cannot work normally in some system environments that do not support https chain authentication, problems accessing the network
 
 ###OLDER VERSION - ONEXCONSOLE
-- 0.7.9  
-- 0.7.8  
-- 0.7.7  
-- 0.7.5  
+- 0.7.9  https://mega.nz/file/ydUDhYAb#RxkCSivCbGcped5OHQms7jVrB7KzoF6hgZDflt0-00Q
+- 0.7.8  https://mega.nz/file/rIEmzIjT#cwqPaEPHRPRDnitV8PhU40f6-GswawgdzECQDhXKWN4
+- 0.7.7  https://mega.nz/file/bQsQnQKS#U0r-0FnQct1bmhtABI5LojAaik7Qj7kJeqbEAfrLYMc
+- 0.7.5  https://mega.nz/file/uddyTbZK#nqqNs7mr3fVfG5s0XXgpJfh5BjYPCINIn3WQxwkvzGE
 
 ### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i-Drivers1.0.zip
