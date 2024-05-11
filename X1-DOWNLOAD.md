@@ -22,12 +22,23 @@ https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-4-
 
 ## OXP English and Chinese Support Site
 
-## ONEXCONSOLE: LATEST 0.7.9 (newly updated: 6th May 2024 
+## ONEXCONSOLE: LATEST 0.7.10 (newly updated: 12th May 2024) 
 https://app.onexconsole.com/web/agg/app:download
+v0.7.10
+- Fixed the problem that the side window has an empty space when moving.
+- Fixed the problem that certain key combinations on the programming handle cannot trigger press events.
+- Fixed the problem that the front end cannot work normally in some system environments that do not support https chain authentication, problems accessing the network
+
+###OLDER VERSION - ONEXCONSOLE
+- 0.7.9  
+- 0.7.8  
+- 0.7.7  
+- 0.7.5  
 
 ### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i-Drivers1.0.zip
-### Harman App + others (no clue how to use/install this)
+
+### Harman App + others (For Harman Audio, rune the install.cmd script to install)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
 
 ### X1 WinPE Image System (no clue how to use/install this WinPE image)
