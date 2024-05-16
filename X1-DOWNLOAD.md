@@ -18,10 +18,11 @@ https://www.guru3d.com/download/display-driver-uninstaller-download/
 https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html
 
 ### Current and Older Intel Arc Drivers
+- 5518  https://mega.nz/file/CI8gSLbK#0ShRxwyfyRwzCIQt7enFOeqTLAnc3NGrpJSKge0efR0
 - 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
 - 5444  https://mega.nz/file/qU9wXIyI#q-CggwXezKnhTstvMUckUph2FsWLpwYBxgwdxyr1RNQ
 
-## AMD ADRENLINA DRIVERS 24.5.1
+## AMD ADRENLINA DRIVERS (Current Latest Only) 24.5.1
 https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-1.html
 
 ### Current and Older AMD ADRENLINA DRIVERS
