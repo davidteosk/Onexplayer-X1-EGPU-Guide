@@ -17,11 +17,17 @@ https://www.guru3d.com/download/display-driver-uninstaller-download/
 ## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5448
 https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
 
-### Older Intel Arc Drivers
+### Current and Older Intel Arc Drivers
+- 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
 - 5444  https://mega.nz/file/qU9wXIyI#q-CggwXezKnhTstvMUckUph2FsWLpwYBxgwdxyr1RNQ
 
-## AMD ADRENLINA DRIVERS 24.4.1
-https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-4-1.html
+## AMD ADRENLINA DRIVERS 24.5.1
+https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-1.html
+
+### Current and Older AMD ADRENLINA DRIVERS
+24.5.1  https://mega.nz/file/iN1lFCTR#9wacWYncu9CfFlq1Qd1RLIrMeSzcohghqoSB5L5fWJw
+24.4.1  https://mega.nz/file/vA8nERTJ#TY6KkhYzQ5fC791FIVQ49xQruMcJNN0BLELsg15FEbo
+24.3.1  https://mega.nz/file/7Q9GSCQb#rB-jnEKorwA9_kSG3Ihcg6sBULLurQM21tAuZGGuw1c
 
 ## OXP English and Chinese Support Site
 
