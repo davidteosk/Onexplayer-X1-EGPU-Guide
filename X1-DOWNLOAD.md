@@ -15,7 +15,7 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 https://www.guru3d.com/download/display-driver-uninstaller-download/
 
 ## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5448
-https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html
+https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html
 
 ### Current and Older Intel Arc Drivers
 - 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
