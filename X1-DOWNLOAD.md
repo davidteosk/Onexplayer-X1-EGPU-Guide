@@ -14,10 +14,11 @@ It contains BIOS, OneXconsole, Battery Tools, New Windows installation X1 Driver
 ## Display Driver Uninstaller (DDU) download version 18.0.7.6 (guru3d, site might be slow)
 https://www.guru3d.com/download/display-driver-uninstaller-download/
 
-## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5518
+## INTEL ARC DRIVERS (Current Latest Only) version 31.0.101.5522
 https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html
 
 ### Current and Older Intel Arc Drivers
+- 5522  https://mega.nz/file/iA0y1AJL#O6VBMcDHuHpoIwvrOq620UJnRuq7U0BZk8NyFc1gLfo
 - 5518  https://mega.nz/file/CI8gSLbK#0ShRxwyfyRwzCIQt7enFOeqTLAnc3NGrpJSKge0efR0
 - 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
 - 5444  https://mega.nz/file/qU9wXIyI#q-CggwXezKnhTstvMUckUph2FsWLpwYBxgwdxyr1RNQ
