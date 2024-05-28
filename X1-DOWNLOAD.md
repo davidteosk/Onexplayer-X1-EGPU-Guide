@@ -51,7 +51,9 @@ https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i
 
 ### Harman App + others (For Harman Audio, run the install.cmd script to install)
 - Helps tune and improved the Audio Quality
+
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
+
 - Mega Mirror: https://mega.nz/file/rA8DiABR#dT3hxPKwFo-VHNeMYpjXaSnujJEOcRgDaKD8DlQ-Bs8
 
 ### X1 WinPE Image System (no clue how to use/install this WinPE image)
