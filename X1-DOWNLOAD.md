@@ -60,7 +60,7 @@ https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
 
 ### BATTERY FIX TOOLS FOR BATTERY UNABLE TO CHARGE ON X1 ONLY
 [GM15-ONEXPLAYER-X1-i-BatteryTool.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210218/GM15-ONEXPLAYER-X1-i-BatteryTool.zip)
-- Mega Mirror: 
+- Mega Mirror: https://mega.nz/file/qEEWBbLB#SELcc10NBN48yhrUpShmLysuXSPoleQXrKAlJM0cc40
 
 README DOC for Battery FIX TOOLS
 [GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210280/GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf)
