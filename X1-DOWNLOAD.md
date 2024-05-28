@@ -69,6 +69,7 @@ README DOC for Battery FIX TOOLS
 #### F1 to function as F1 by Default instead of FN+F1 by default
 [X1_Keyboard_DisableFN.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210244/X1_Keyboard_DisableFN.zip)
 - Mega Mirror: https://mega.nz/file/KRsGlZTa#d1793ZpfhhNJiqeUcOa5_9nvAS6WNi7AijNJb31v-dw
+
 Flashing Steps:
 1. Unzip the folder to the desktop (Make sure to remove the magnetic keyboard first).
 2. Run "USB Upgrade Tool 2.1.exe".
