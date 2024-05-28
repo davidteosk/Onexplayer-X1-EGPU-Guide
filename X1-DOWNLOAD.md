@@ -47,17 +47,20 @@ v0.8.1
 
 ### X1 Full Drivers Package for New Windows Installation: (look for a setup.bat batch file to execute)
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i-Drivers1.0.zip
+- Mega Mirror: https://mega.nz/file/PN8lQRQC#3W8clNiLvVbLzvCL2RpZSyNnBLkPyeOJ2e3VZQDCN0g
 
 ### Harman App + others (For Harman Audio, run the install.cmd script to install)
 Helps tune and improved the Audio Quality
-
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
+- Mega Mirror: https://mega.nz/file/rA8DiABR#dT3hxPKwFo-VHNeMYpjXaSnujJEOcRgDaKD8DlQ-Bs8
 
 ### X1 WinPE Image System (no clue how to use/install this WinPE image)
 https://1drv.ms/u/s!AilYUA_Au4xW3kWgIz-ZN98e1R3M?e=o5opU
+- Mega Mirror: https://mega.nz/file/SFECDToK#bPSdJzhFGh9xgpOy7eFL-4jAH7BwDB2HrOc1aI8ypcc
 
 ### BATTERY FIX TOOLS FOR BATTERY UNABLE TO CHARGE ON X1 ONLY
 [GM15-ONEXPLAYER-X1-i-BatteryTool.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210218/GM15-ONEXPLAYER-X1-i-BatteryTool.zip)
+- Mega Mirror: 
 
 README DOC for Battery FIX TOOLS
 [GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210280/GM15-ONEXPLAYER-X1-i-BatteryTool_readme.pdf)
@@ -65,6 +68,7 @@ README DOC for Battery FIX TOOLS
 ### KEYBOARD CHANGE ( ONE WAY MODE, CANNOT CHANGE BACK FROM FACTORY SHIP MODE)
 #### F1 to function as F1 by Default instead of FN+F1 by default
 [X1_Keyboard_DisableFN.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15210244/X1_Keyboard_DisableFN.zip)
+- Mega Mirror: https://mega.nz/file/KRsGlZTa#d1793ZpfhhNJiqeUcOa5_9nvAS6WNi7AijNJb31v-dw
 Flashing Steps:
 1. Unzip the folder to the desktop (Make sure to remove the magnetic keyboard first).
 2. Run "USB Upgrade Tool 2.1.exe".
