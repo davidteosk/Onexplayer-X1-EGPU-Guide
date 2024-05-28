@@ -33,14 +33,12 @@ https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-
 
 ## OXP English and Chinese Support Site
 
-## ONEXCONSOLE: LATEST 0.7.10 (newly updated: 12th May 2024) 
+## ONEXCONSOLE: LATEST 0.8.1 (newly updated: 28th May 2024) 
 https://app.onexconsole.com/web/agg/app:download
-v0.7.10
-- Fixed the problem that the side window has an empty space when moving.
-- Fixed the problem that certain key combinations on the programming handle cannot trigger press events.
-- Fixed the problem that the front end cannot work normally in some system environments that do not support https chain authentication, problems accessing the network
+v0.8.1
 
 ### Older OnexConsole Version
+- 0.7.10 https://mega.nz/file/vB03zKRT#uR97ki32RRZUlVQ9t05QDhDU0uHoVZNCPjUTNDX9YSA
 - 0.7.9  https://mega.nz/file/ydUDhYAb#RxkCSivCbGcped5OHQms7jVrB7KzoF6hgZDflt0-00Q
 - 0.7.8  https://mega.nz/file/rIEmzIjT#cwqPaEPHRPRDnitV8PhU40f6-GswawgdzECQDhXKWN4
 - 0.7.7  https://mega.nz/file/bQsQnQKS#U0r-0FnQct1bmhtABI5LojAaik7Qj7kJeqbEAfrLYMc
