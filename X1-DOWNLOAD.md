@@ -31,7 +31,7 @@ https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-
 - 24.4.1  https://mega.nz/file/vA8nERTJ#TY6KkhYzQ5fC791FIVQ49xQruMcJNN0BLELsg15FEbo
 - 24.3.1  https://mega.nz/file/7Q9GSCQb#rB-jnEKorwA9_kSG3Ihcg6sBULLurQM21tAuZGGuw1c
 
-### THROTTLESTOP 9.6 - Alternative to OXP for CPU TDP Power and Throttle Control
+### THROTTLESTOP 9.6 - Alternative to OneXConsole for CPU TDP Power and Throttle Control
 - (hardcore tuning, use at own risk) - check Discord Onexplayer X1 for guide
 https://www.techpowerup.com/download/techpowerup-throttlestop/
 
