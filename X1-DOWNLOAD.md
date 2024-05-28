@@ -50,7 +50,7 @@ https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/GM15-ONEXPPLAYERX1i
 - Mega Mirror: https://mega.nz/file/PN8lQRQC#3W8clNiLvVbLzvCL2RpZSyNnBLkPyeOJ2e3VZQDCN0g
 
 ### Harman App + others (For Harman Audio, run the install.cmd script to install)
-Helps tune and improved the Audio Quality
+- Helps tune and improved the Audio Quality
 https://onenetbook.oss-cn-beijing.aliyuncs.com/OnexPlayer/X1/APP.rar
 - Mega Mirror: https://mega.nz/file/rA8DiABR#dT3hxPKwFo-VHNeMYpjXaSnujJEOcRgDaKD8DlQ-Bs8
 
