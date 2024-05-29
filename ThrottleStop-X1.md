@@ -9,3 +9,7 @@
 https://www.techpowerup.com/download/techpowerup-throttlestop/
 
 ## SETTINGS SUITABLE FOR X1 (i-GPU)
+### Setup the OPTIONS for the 4 modes of profiles
+
+### Setup the settings for the Performance TDP profile
+
