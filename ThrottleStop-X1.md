@@ -27,3 +27,9 @@ Click the TPL button to open up the Turbo Power Limit window and configure exact
 ![balance-mode](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/13351238-9999-48f8-ae10-831185c37a74)
 ![battery-mode](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/e1f3bb49-fa32-4abe-af11-ea4edb7f28c3)
 ![battery-max-mode](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/1cd40a2e-104e-4b19-a951-de1bb338663f)
+
+
+.
+.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
