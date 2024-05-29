@@ -7,3 +7,5 @@
 (hardcore tuning, use at own risk) - check PINS on Onexplayer Discord channel X1-155H for guide
 
 https://www.techpowerup.com/download/techpowerup-throttlestop/
+
+## SETTINGS SUITABLE FOR X1 (i-GPU)
