@@ -12,5 +12,5 @@ https://www.techpowerup.com/download/techpowerup-throttlestop/
 ### Setup the OPTIONS for the 4 modes of profiles
 
 ### Setup the settings for the Performance TDP profile
-
+CLICK TPL button to open up the Turbo Power Limit window and configure exactly as shown on screen.
 ![throttlestop-settings-final](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/b432c000-23c9-4b6c-987e-a471ce55a0ad)
