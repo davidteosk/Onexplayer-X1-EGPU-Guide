@@ -10,6 +10,9 @@ https://www.techpowerup.com/download/techpowerup-throttlestop/
 
 ## SETTINGS SUITABLE FOR X1 (i-GPU)
 ### Setup the OPTIONS for the 4 modes of profiles
+CLICK option button and configure exactly as shown on screen. Basically, name the 4 profile as AC MAX, Balance, Battery, Battery Max.
+![throttlestop-options](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/f9f22ea6-398c-422c-8bbb-0fafb794e555)
+
 
 ### Setup the settings for the Performance TDP profile
 CLICK TPL button to open up the Turbo Power Limit window and configure exactly as shown on screen.
