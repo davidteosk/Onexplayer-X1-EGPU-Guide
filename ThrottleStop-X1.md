@@ -17,3 +17,9 @@ Click the OPTIONS button and configure exactly as shown on screen. Basically, na
 ### Setup the settings for the Performance TDP profile
 Click the TPL button to open up the Turbo Power Limit window and configure exactly as shown on screen.
 ![throttlestop-settings-final](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/b432c000-23c9-4b6c-987e-a471ce55a0ad)
+
+### Setup the variations for the 4 different profiles
+- Basic different is on the Shift Speed EPP settings for different profiles.
+- AC Max = 32, Balance = 128, Battery = 160, Max Battery = 255
+- For Battery and Battery Max, checkbox the Disable Turbo.
+- You can easily change profile by right click the ThrottleStop icon tray.
