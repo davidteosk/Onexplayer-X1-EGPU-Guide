@@ -2,6 +2,12 @@
 
 ## What is ThrottleStop?
 
+### NOTE:
+- ThrottleStop does conflict with OneXConsole and they cannot be used concurrently. Although you can still runs OneXconsolse with no conflict but it is advice not to.
+- Disable Onexconsole from autorun in the Task Manager -> Startup Apps. (you can enable back anytime.)
+- Create the ThrottleStop shortcut in the Windows Autorun folder. press WIN+R and type shell:startup and enter to open up the folder.
+- C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
 ## Download ThrottleStop
 ### THROTTLESTOP 9.6 - Alternative to OneXConsole for CPU TDP Power and Throttle Control
 (hardcore tuning, use at own risk) - check PINS on Onexplayer Discord channel X1-155H for guide
