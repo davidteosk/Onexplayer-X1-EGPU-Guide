@@ -9,6 +9,8 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
+- [THROTTLESTOP GUIDE](../main/ThrottleStop-X1.md)
+
 - [eGPU Installation Guide](../main/eGPU-install.md)
 
 - [eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
