@@ -18,6 +18,7 @@ https://www.guru3d.com/download/display-driver-uninstaller-download/
 https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html
 
 ### Current and Older Intel Arc Drivers
+- 5534  https://mega.nz/file/aV1yDLzZ#vgE75R1yiKVYOWYRPnv9oxwRv74hCZjhDZ4CdTi2jF4
 - 5522  https://mega.nz/file/iA0y1AJL#O6VBMcDHuHpoIwvrOq620UJnRuq7U0BZk8NyFc1gLfo
 - 5518  https://mega.nz/file/CI8gSLbK#0ShRxwyfyRwzCIQt7enFOeqTLAnc3NGrpJSKge0efR0
 - 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
