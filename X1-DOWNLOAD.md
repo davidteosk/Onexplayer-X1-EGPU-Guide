@@ -39,11 +39,12 @@ https://www.techpowerup.com/download/techpowerup-throttlestop/
 
 ## OXP English and Chinese Support Site
 
-## ONEXCONSOLE: LATEST 0.8.2 (newly updated: 29th May 2024) 
+## ONEXCONSOLE: LATEST 0.8.3 (newly updated: 29th May 2024) 
 https://app.onexconsole.com/web/agg/app:download
-v0.8.2
+v0.8.3
 
 ### Current & Older OnexConsole Version
+- 0.8.3  https://mega.nz/file/2UEyjJTI#xY85dQbe_7dmf2AWqTybDzhE8mGhnjG44yGi234Q5G4
 - 0.8.2  https://mega.nz/file/iFM0TALK#FS5kO9r4kNpD3E-MOFkGIVZ2SKZbQJlD9AEzhHr_WN8
 - 0.8.1  https://mega.nz/file/mdMwkY4a#Hz2A-UrzsOg-dHnQiqj03NZGmN61JWppnTcMKR5CsKc
 - 0.7.10 https://mega.nz/file/vB03zKRT#uR97ki32RRZUlVQ9t05QDhDU0uHoVZNCPjUTNDX9YSA
