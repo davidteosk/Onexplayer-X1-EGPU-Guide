@@ -21,3 +21,8 @@
 6. DESKTOP settings -> 1980 x 1080 resolution for best gaming performance.
 - *significant fps boost.
 - Use either ONEXCONSOLE or THROTTLESTOP. Do not use both at the same time. TS requires full system shutdown and restart.
+
+.
+.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
