@@ -1,7 +1,7 @@
 # BIOS 2.45 (1/7/2024)
 
 # Download X1-BIOS-MEMORY-V45.ZIP
-MEGA: 
+MEGA: https://mega.nz/file/jJ9wWSgD#kXRyBCPwtq2uGRqn6_Jfodfs4fYkNJ-6ksZ3FU58_8E
 
 VT-d Menu (green): if you dont need to run virtualisation eg VM's
 Disabled everything here
