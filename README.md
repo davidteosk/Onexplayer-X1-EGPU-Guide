@@ -17,7 +17,7 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [Battery-Protection-Fix](../main/Battery-Protection-Fix.md)
 
-- [Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
+- [Uninstalling/Reinstalling Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
 
 - [OLD - BIOS 242 + EC065](../main/BIOS242EC065.md)
 
