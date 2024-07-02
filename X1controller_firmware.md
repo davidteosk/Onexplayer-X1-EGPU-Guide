@@ -8,3 +8,8 @@ flash at your own risk and if you are not comfitable downloading and running thi
 
 # DOWNLOAD
 MEGA: https://mega.nz/file/3B0C0QpL#sAd1hT3-8zMT8WBGOOgPZwksr-eae5ToAk77KqyZ6Cs
+
+.
+.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
