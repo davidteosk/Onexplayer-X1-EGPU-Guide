@@ -3,9 +3,11 @@ A guide covering Onexplayer X1 including the applications and tools that will ma
 This guide will constantly be updated with new information as it becomes available.
 # Table of Content
 
-- [BIOS 242 + EC065](../main/BIOS242EC065.md)
+- [NEW - LATEST - BIOS 245](../main/BIOS245.md)
 
-- [EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
+- [OLD - BIOS 242 + EC065](../main/BIOS242EC065.md)
+
+- [OLD - EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
 
 - [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
