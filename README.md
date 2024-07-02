@@ -5,11 +5,9 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [NEW - LATEST - BIOS 245](../main/BIOS245.md)
 
-- [OLD - BIOS 242 + EC065](../main/BIOS242EC065.md)
-
-- [OLD - EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
-
 - [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
+
+- [BIOS WINDOWS RECOVERY](../main/WinRecovery.md)
 
 - [THROTTLESTOP GUIDE](../main/ThrottleStop-X1.md)
 
@@ -21,4 +19,6 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [Problems with Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
 
-- [BIOS WINDOWS RECOVERY](../main/WinRecovery.md)
+- [OLD - BIOS 242 + EC065](../main/BIOS242EC065.md)
+
+- [OLD - EC PATCH 065oxc](../main/EC-PATCH-065oxc.md)
