@@ -24,8 +24,8 @@ https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphi
 - 5448  https://mega.nz/file/bEkCWBpI#DO3F58YgJ1WGIaXLbkySj0kM-SKrE5ePJkYydrPm0p0
 - 5444  https://mega.nz/file/qU9wXIyI#q-CggwXezKnhTstvMUckUph2FsWLpwYBxgwdxyr1RNQ
 
-## AMD ADRENLINA DRIVERS (Current Latest Only) 24.5.1
-https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-1.html
+## AMD ADRENLINA DRIVERS (Current Latest Only) 24.6.1
+https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-6-1.html
 
 ### Current and Older AMD Adrenlina Drivers
 - 24.5.1  https://mega.nz/file/iN1lFCTR#9wacWYncu9CfFlq1Qd1RLIrMeSzcohghqoSB5L5fWJw
