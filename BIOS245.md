@@ -22,7 +22,13 @@ Also no need to change anything memory config, but you can disabled everything i
 2. Enable Intel Intelligent Dynamic Mode (DTT)
 3. BIOS version updated to 2.42
 
-
+## TIMESPY BENCHMARK 4285
+https://www.3dmark.com/3dm/113866152
+항: Finally, I installed the 2.45 version of the BIOS. I think it has raised 155H performance to its limit.
+Intel Core Ultra 7 processor 155H, Intel Arc Graphics x 1, 32518 MB, 64-bit Windows 11}
+MODEL : 32GB / 1T
+APP : OXC(DTT ON & HIGH PERFORMANCE)
+ARC DRIVER : .5592
 
 # The key is understanding whether your game is CPU bottlenecked, GPU bottlenecked, or both and setting the OXC settings appropriately.
 
