@@ -1,5 +1,8 @@
 # BIOS 2.45 (1/7/2024)
-X1-BIOS-MEMORY-V45.ZIP
+
+# Download X1-BIOS-MEMORY-V45.ZIP
+MEGA: 
+
 VT-d Menu (green): if you dont need to run virtualisation eg VM's
 Disabled everything here
 
@@ -8,278 +11,41 @@ DO NOT TOUCH everything is set to best performance by default
 
 ![bios245-VT-d](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/a7f59273-cbda-4adc-a1cc-f4dc1abedd73)
 
-Change log:
+## Change log:
 So should boost performance in memory bandwidth bottlenecked games and slightly improve ipc with vt-d disabled
-
 Flashable in windows, make sure to disable defender before flashing, make sure to disable bitlocker on drives as well if using.
-
 You may need to add the folder you download the bios file to a whitelist if you have issues downloading 
-
 Pin will be reset so make sure you have a normal windows password set before flashing
-
 After reboot just be patient and let windows boot might take awhile but don't force a shut down.
-
 Also no need to change anything memory config, but you can disabled everything in the vt-d menu if you arent using virtualisation 
-
 1. Optimize the Oculink interface to connect the graphics card dock to improve stability
 2. Enable Intel Intelligent Dynamic Mode (DTT)
 3. BIOS version updated to 2.42
 
-## EC 0.65
-1. Control and notify the BIOS to enable the intel Intelligent Dynamic Mode (DTT) feature
-2. Embedded Controllers version updated to 0.65
-## Download
-discord post
-[X1-intel-BIOS-EC-V42&V65.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15168135/X1-intel-BIOS-EC-V42.V65.zip)
-
-onexplayerstore.com
-https://1drv.ms/u/s!AilYUA_Au4xW3yp3MNQaST94RnLv?e=Ly1StM
-
-## VIDEO GUIDE - from OXP
-YouTube
-ONE-NETBOOK
-The latest BIOS for the three-in-one PC, OneXPlayer X1 has arrived
-https://www.youtube.com/watch?v=XRfVzZhCcHs&t=7s
-![maxresdefault](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/a5c5de25-6bc1-4789-9fd5-dc733d75164b)
-
-## VIDEO GUIDE - from Gaming_for_insight
-YouTube
-Gaming_for_insight
-Intel Smart Dynamic Mode on the One X Player X1 - Get this Feature
-https://www.youtube.com/watch?v=suLVH6MSWRU&t=936s
-![gaming-for-insight-x1](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/4f6b2d79-b179-4649-8869-6337b47425a6)
-
-## Warning - Side Effects may occurs. proceed with cautions.
-1. It is advised you have backups for all your important files before proceed.
-2. Disable all Windows Login Security like PINS, Face Recognition, Thumbprint, etc.
-3. Disable Bitlock if your are on Windows PRO
-4. Set Securt Boot = OFF in BIOS if you have it turn on.
-
-## Installation Instruction
-
-Required a USB flash disk >1GB such as (2G/8GB/16GB/32GB)
-- Maximum FAT32 partition size is restricted to 32GB and if you have a bigger USB like 64GB, you requires to format it to 32GB size partition.
-- Use Disk management to create a FAT32 Partition with 32BG partition.
-
-BIOS 2.42
-Optimize the Oculink interface to connect the graphics card dock to improve stability
-Enable Intel Intelligent Dynamic Mode (DTT)
-BIOS version updated to 2.42
-EC 0.65
-Control and notify the BIOS to enable the intel Intelligent Dynamic Mode (DTT) feature
-Embedded Controllers version updated to 0.65
-
-Installation Instruction
-Required a USB flash disk >1GB such as (2G/8GB/16GB/32GB)
-
-1. Maximum FAT32 partition size is restricted to 32GB and if you have a bigger USB like 64GB, you requires to format it to 32GB size partition.
-2. Use Disk management to create a FAT32 Partition with 32BG partition.
-3. CREATE or FORMAT FAT32 partition on the USB disk with label --> SHELL
-
-![image](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/2674a4ce-b012-4c37-a6fb-6030b6fb0f0e)
-
-5. Copy all the files into the SHELL drive. Total of 2 folders and 2 files from the root directory.
-![Pasted image 20240429045731](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/0fcfb6b1-b6e2-4eb2-9e68-58132f690a75)
-
-7. With the USB flash disk in your USB dock or usb4 interface, reboot windows to BIOS.
-
-### METHOD 1 : CHANGING BIOS BOOT SEQUENCE FOR # 1
-9. Press ESC or Delete key to enter BIOS
-10. Go to the BOOT tab. Change boot sequence for #1 to USB DISK. **note: the naming may varies depending on your USB flash disk type.
-11. Exit and Save BIOS ensuring your USB disk is plug in.
-
-### METHOD 2: (EASY) ENTER BIOS BOOT MANAGER AND SELECT USB DISK. 
-9. Press POWER ON BUTTON once and TURBO BUTTON once to enter the BIOS BOOT MANAGER.
-10. Select and choose your USB disk. **note: the naming may varies depending on your USB flash disk type.
-
-## FLASHING STARTS
-1. The Flashing software will start with 5 sec pausing showing:- press ESC to stop executing startup.nsh or press any key to proceed.
-!!!PLEASE DO NOT PRESS ANY KEY, just wait for 5 sec to expire and it will proceed automatically.
-The EC flashing program will starts. wait for it to completed.
-### BIOS FLASHING
-![20240419_032051](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/1a5e140c-bdf2-45e1-85bd-a0550736f1d9)
-### EC FLASHING
-
-3. PC will shutdown after flashing is completed.
-
-### Unplug and remove your USB flash DISK.
-3. Press Power Button once to boot.
-
-### WAITING
-4. Your PC will starts in 3 to 5 mins while BIOS is doing the job in background.
-5. once done, you should see ONEXPLAYER logo.
-6. Windows will starts. If windows does not starts, go back to BIOS and change the Boot Sequence to  "Windows Boot Manager" on #1
-
-## SUCCESS!!
-7. In windows, run System Information, you will see BIOS version 2.42 and Embedded controller version 0.65
-
-## HOW TO VERIFY IF SUCCESSFUL?
-1. In windows, run System Information. It will show your BIOS and EC (Embedded Controller) version.
-![SystemInfo-BIOS](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/183c4c35-50a7-44dc-9bc5-3b6d83d96efc)
-
-# FIXING ISSUES
-### I FORGOT TO DISABLE WINDOWS SECURITY PINS.
-1. Windows unable to login via PINS?  if it is beyond repairs, you need to do X1 Windows Recovery from BIOS.
-https://discord.com/channels/547366894995243029/1233106690824601711/1233106690824601711
-### BIOS FLASHING ENDS UP IN SHELL MODE AND STOPS THERE? 
-https://discord.com/channels/547366894995243029/1233106690824601711/1233106690824601711
-![20240420_035028](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/28461314-1a85-4bf8-906d-3060f7fed34f)
-You have accidentally press a keyboard during the stage in shell where it shows "press ESC to stop executing startup.nsh or press any key to proceed."
-!!!PLEASE DO NOT PRESS ANY KEY, just wait for 5 sec to expire and it will proceed automatically.
-
-### AFTER BIOS UPDATE AND ONEXCONSOLE 0.7.8 UPDATE, MY FPS STUCK AT 15Watts
-Sometimes after BIOS update, with the latest update to onexconsole, the games onlys runs at 15watt no matter what settings i set in ONEXCONSOLE.
-#### Solution
-1. YOU NEED TO DO FULL UNINSTALLATION OF ONEXCONSOLE AND RE-INSTALLATION OF ONEXCONSOLE to resolve the stuck at 15watt issue.
-2. Goto your User directory. example: C:\Users\deck\ where deck is my username.
-3. Enable View->Show-Hidden Files.
-4. Click Appdata->Roaming.
-5. Deleting all gamerszone folders in appdata/roaming.
-6. Uninstall Onexconsole and other Onexconsole if any related from --> Add and remove program
-7. Re-install the latest Onexconsole from the download link 
-
-Please follow this video guide from OKestGamer
-
-YouTube
-OKestGamer
-Complete OneXConsole and Player center fix guide for AOKZOE and One
-
-https://www.youtube.com/watch?v=B5xnyulwT3U
-
-![okestgamer-uninstall-xconsole](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/536ba20e-501f-4b26-aadd-e928d60a1b37)
 
 
-....
-[Onexplayer X1 and EGPU Guide](../main/README.md)
-# BIOS (OXC OFFICIAL VERSION) 2.42 + EC 0.65
-## BIOS 2.42
-1. Optimize the Oculink interface to connect the graphics card dock to improve stability
-2. Enable Intel Intelligent Dynamic Mode (DTT)
-3. BIOS version updated to 2.42
+# The key is understanding whether your game is CPU bottlenecked, GPU bottlenecked, or both and setting the OXC settings appropriately.
 
-## EC 0.65
-1. Control and notify the BIOS to enable the intel Intelligent Dynamic Mode (DTT) feature
-2. Embedded Controllers version updated to 0.65
-## Download
-discord post
-[X1-intel-BIOS-EC-V42&V65.zip](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/files/15168135/X1-intel-BIOS-EC-V42.V65.zip)
+If it's a game that's heavily CPU bottlenecked on single threads with lower GPU requirements (i.e. Destiny 2), use:
+OXC settings -> Intel Turbo Boost: off
+OXC settings -> Intel dynamic performance mode: on
+OXC main page -> Turbo On
+OXC main page: Intel dynamic performance mode: high perform
+Windows "Power sleep and battery settings": do NOT change this from "best power efficiency" which OXC should automatically set when you turn on high performance DTT mode
+Windows refresh rate in Windows Display Settings: 60
 
-onexplayerstore.com
-https://1drv.ms/u/s!AilYUA_Au4xW3yp3MNQaST94RnLv?e=Ly1StM
+If it's a game that's heavily GPU bottlenecked, with lower CPU requirements, use:
+OXC settings -> Intel Turbo Boost: off
+OXC settings -> Intel dynamic performance mode: on
+OXC main page -> Turbo Off
+OXC main page: Intel dynamic performance mode: high perform
+Windows "Power sleep and battery settings": do NOT change this from "best power efficiency" which OXC should automatically set when you turn on high performance DTT mode
+Windows refresh rate in Windows Display Settings: 60
 
-## VIDEO GUIDE - from OXP
-YouTube
-ONE-NETBOOK
-The latest BIOS for the three-in-one PC, OneXPlayer X1 has arrived
-https://www.youtube.com/watch?v=XRfVzZhCcHs&t=7s
-![maxresdefault](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/a5c5de25-6bc1-4789-9fd5-dc733d75164b)
+If it's a game with balanced CPU and GPU requirements, use the setting for GPU bottlenecked games above, with the note that you might have to set vsync in-game to 1/2 framerate (i.e. 30 FPS).
+In addition, as Jaige said, it's a matter of setting graphical settings to low (including the advanced settings), using XESS where available in ulta performance mode / FSR2 in ultra performance mode if XESS is not available / setting res to 1280x800 if neither are available, and then work up from there if performance is acceptable, increasing textures to medium first, testing again, then bumping up other settings until you notice framerate issues. 
 
-## VIDEO GUIDE - from Gaming_for_insight
-YouTube
-Gaming_for_insight
-Intel Smart Dynamic Mode on the One X Player X1 - Get this Feature
-https://www.youtube.com/watch?v=suLVH6MSWRU&t=936s
-![gaming-for-insight-x1](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/4f6b2d79-b179-4649-8869-6337b47425a6)
-
-## Warning - Side Effects may occurs. proceed with cautions.
-1. It is advised you have backups for all your important files before proceed.
-2. Disable all Windows Login Security like PINS, Face Recognition, Thumbprint, etc.
-3. Disable Bitlock if your are on Windows PRO
-4. Set Securt Boot = OFF in BIOS if you have it turn on.
-
-## Installation Instruction
-
-Required a USB flash disk >1GB such as (2G/8GB/16GB/32GB)
-- Maximum FAT32 partition size is restricted to 32GB and if you have a bigger USB like 64GB, you requires to format it to 32GB size partition.
-- Use Disk management to create a FAT32 Partition with 32BG partition.
-
-BIOS 2.42
-Optimize the Oculink interface to connect the graphics card dock to improve stability
-Enable Intel Intelligent Dynamic Mode (DTT)
-BIOS version updated to 2.42
-EC 0.65
-Control and notify the BIOS to enable the intel Intelligent Dynamic Mode (DTT) feature
-Embedded Controllers version updated to 0.65
-
-Installation Instruction
-Required a USB flash disk >1GB such as (2G/8GB/16GB/32GB)
-
-1. Maximum FAT32 partition size is restricted to 32GB and if you have a bigger USB like 64GB, you requires to format it to 32GB size partition.
-2. Use Disk management to create a FAT32 Partition with 32BG partition.
-3. CREATE or FORMAT FAT32 partition on the USB disk with label --> SHELL
-
-![image](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/2674a4ce-b012-4c37-a6fb-6030b6fb0f0e)
-
-5. Copy all the files into the SHELL drive. Total of 2 folders and 2 files from the root directory.
-![Pasted image 20240429045731](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/0fcfb6b1-b6e2-4eb2-9e68-58132f690a75)
-
-7. With the USB flash disk in your USB dock or usb4 interface, reboot windows to BIOS.
-
-### METHOD 1 : CHANGING BIOS BOOT SEQUENCE FOR # 1
-9. Press ESC or Delete key to enter BIOS
-10. Go to the BOOT tab. Change boot sequence for #1 to USB DISK. **note: the naming may varies depending on your USB flash disk type.
-11. Exit and Save BIOS ensuring your USB disk is plug in.
-
-### METHOD 2: (EASY) ENTER BIOS BOOT MANAGER AND SELECT USB DISK. 
-9. Press POWER ON BUTTON once and TURBO BUTTON once to enter the BIOS BOOT MANAGER.
-10. Select and choose your USB disk. **note: the naming may varies depending on your USB flash disk type.
-
-## FLASHING STARTS
-1. The Flashing software will start with 5 sec pausing showing:- press ESC to stop executing startup.nsh or press any key to proceed.
-!!!PLEASE DO NOT PRESS ANY KEY, just wait for 5 sec to expire and it will proceed automatically.
-The EC flashing program will starts. wait for it to completed.
-### BIOS FLASHING
-![20240419_032051](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/1a5e140c-bdf2-45e1-85bd-a0550736f1d9)
-### EC FLASHING
-
-3. PC will shutdown after flashing is completed.
-
-### Unplug and remove your USB flash DISK.
-3. Press Power Button once to boot.
-
-### WAITING
-4. Your PC will starts in 3 to 5 mins while BIOS is doing the job in background.
-5. once done, you should see ONEXPLAYER logo.
-6. Windows will starts. If windows does not starts, go back to BIOS and change the Boot Sequence to  "Windows Boot Manager" on #1
-
-## SUCCESS!!
-7. In windows, run System Information, you will see BIOS version 2.42 and Embedded controller version 0.65
-
-## HOW TO VERIFY IF SUCCESSFUL?
-1. In windows, run System Information. It will show your BIOS and EC (Embedded Controller) version.
-![SystemInfo-BIOS](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/183c4c35-50a7-44dc-9bc5-3b6d83d96efc)
-
-# FIXING ISSUES
-### I FORGOT TO DISABLE WINDOWS SECURITY PINS.
-1. Windows unable to login via PINS?  if it is beyond repairs, you need to do X1 Windows Recovery from BIOS.
-https://discord.com/channels/547366894995243029/1233106690824601711/1233106690824601711
-### BIOS FLASHING ENDS UP IN SHELL MODE AND STOPS THERE? 
-https://discord.com/channels/547366894995243029/1233106690824601711/1233106690824601711
-![20240420_035028](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/28461314-1a85-4bf8-906d-3060f7fed34f)
-You have accidentally press a keyboard during the stage in shell where it shows "press ESC to stop executing startup.nsh or press any key to proceed."
-!!!PLEASE DO NOT PRESS ANY KEY, just wait for 5 sec to expire and it will proceed automatically.
-
-### AFTER BIOS UPDATE AND ONEXCONSOLE 0.7.8 UPDATE, MY FPS STUCK AT 15Watts
-Sometimes after BIOS update, with the latest update to onexconsole, the games onlys runs at 15watt no matter what settings i set in ONEXCONSOLE.
-#### Solution
-1. YOU NEED TO DO FULL UNINSTALLATION OF ONEXCONSOLE AND RE-INSTALLATION OF ONEXCONSOLE to resolve the stuck at 15watt issue.
-2. Goto your User directory. example: C:\Users\deck\ where deck is my username.
-3. Enable View->Show-Hidden Files.
-4. Click Appdata->Roaming.
-5. Deleting all gamerszone folders in appdata/roaming.
-6. Uninstall Onexconsole and other Onexconsole if any related from --> Add and remove program
-7. Re-install the latest Onexconsole from the download link 
-
-Please follow this video guide from OKestGamer
-
-YouTube
-OKestGamer
-Complete OneXConsole and Player center fix guide for AOKZOE and One
-
-https://www.youtube.com/watch?v=B5xnyulwT3U
-
-![okestgamer-uninstall-xconsole](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/536ba20e-501f-4b26-aadd-e928d60a1b37)
-
+# All oxp devices support bypass charging once at 100% it does not use the battery at all and just powers the device directly
 
 ....
 [Onexplayer X1 and EGPU Guide](../main/README.md)
