@@ -29,6 +29,7 @@ https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphi
 https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-6-1.html
 
 ### Current and Older AMD Adrenlina Drivers
+- 24.6.1  https://mega.nz/file/fJlHBbRS#zcqtfxM2jr3PNPzonlESen_KPXkSs_krGOImNkiExo4
 - 24.5.1  https://mega.nz/file/iN1lFCTR#9wacWYncu9CfFlq1Qd1RLIrMeSzcohghqoSB5L5fWJw
 - 24.4.1  https://mega.nz/file/vA8nERTJ#TY6KkhYzQ5fC791FIVQ49xQruMcJNN0BLELsg15FEbo
 - 24.3.1  https://mega.nz/file/7Q9GSCQb#rB-jnEKorwA9_kSG3Ihcg6sBULLurQM21tAuZGGuw1c
@@ -40,11 +41,12 @@ https://www.techpowerup.com/download/techpowerup-throttlestop/
 
 ## OXP English and Chinese Support Site
 
-## ONEXCONSOLE: LATEST 0.8.3 (newly updated: 29th May 2024) 
+## ONEXCONSOLE: LATEST 0.8.4 
 https://app.onexconsole.com/web/agg/app:download
-v0.8.3
+v0.8.4
 
 ### Current & Older OnexConsole Version
+- 0.8.4  https://mega.nz/file/TZ10hCqD#Vlb6gXC5NdZSSOv3J_frhGLNhqL9PN-1rwAQytu9qhY
 - 0.8.3  https://mega.nz/file/2UEyjJTI#xY85dQbe_7dmf2AWqTybDzhE8mGhnjG44yGi234Q5G4
 - 0.8.2  https://mega.nz/file/iFM0TALK#FS5kO9r4kNpD3E-MOFkGIVZ2SKZbQJlD9AEzhHr_WN8
 - 0.8.1  https://mega.nz/file/mdMwkY4a#Hz2A-UrzsOg-dHnQiqj03NZGmN61JWppnTcMKR5CsKc
