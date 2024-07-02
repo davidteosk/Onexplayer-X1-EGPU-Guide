@@ -13,6 +13,8 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [THROTTLESTOP GUIDE](../main/ThrottleStop-X1.md)
 
+- [FIX UPSIDE DOWN CAMERA](../main/manycam.md)
+
 - [eGPU Installation Guide](../main/eGPU-install.md)
 
 - [eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
