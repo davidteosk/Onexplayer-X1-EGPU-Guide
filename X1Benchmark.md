@@ -9,7 +9,7 @@
 ## Throttlestop Settings
 ![throttlestop-settings-final](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/a6de84aa-f3a2-4d6e-8925-1b909b62a8d1)
 
-## HWINFO WHILE GAMING
+## HWINFO AFTER GAMING BENCHMARK
 ![hwinfo-after-TR](https://github.com/davidteosk/Onexplayer-X1-EGPU-Guide/assets/12351598/9ba354fa-604d-4ae5-8c3d-c8663bcba6ff)
 
 ### Tricks for best gaming FPS :-
