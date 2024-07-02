@@ -1,6 +1,8 @@
 # FIX CAMERA UPSIDE DOWN - MANYCAM
 Use third-party software like ManyCam.
 
+https://manycam.com/download/
+
 After downloading and using ManyCam, the main differences between it and the handheld camera are as follows:
 
 Enhanced functions:
@@ -26,3 +28,9 @@ Select ManyCam in Google Meet:
 Open the Google Meet meeting, click the three-dot menu in the lower right corner, and select "Settings".
 In the "Video" tab, set the camera to ManyCam virtual camera.
 In this way, you can use the function of ManyCam to solve the problem of camera flipping and enhance the effect of video calls
+
+.
+.
+
+[Onexplayer X1 and EGPU Guide](../main/README.md)
+
