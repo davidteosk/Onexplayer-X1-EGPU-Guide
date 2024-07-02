@@ -7,6 +7,8 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
+- [X1 BENCHMARK](../main/X1benchmark.md)
+
 - [BIOS WINDOWS RECOVERY](../main/WinRecovery.md)
 
 - [Uninstalling/Reinstalling Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
