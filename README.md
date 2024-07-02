@@ -5,6 +5,8 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [NEW - LATEST - BIOS 245](../main/BIOS245.md)
 
+-  [NEW - LATEST - BIOS 245](../main/X1controller_firmware.md)
+
 - [X1 DOWNLOAD](../main/X1-DOWNLOAD.md)
 
 - [X1 BENCHMARK](../main/X1benchmark.md)
