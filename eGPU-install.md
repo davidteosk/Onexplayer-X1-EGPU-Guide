@@ -24,28 +24,28 @@ Download Preparation
 # HOW TO USE OCULINK WITH X1
 Recently, i finally got to use oculink with X1, here is how i connect of 100% with onexgpu
 
-Prerequisite
-First you need to have amd driver already installed, you can do so by only connecting usb4
-After that, you do a full shutdown
+### Prerequisite
+- First you need to have amd driver already installed, you can do so by only connecting usb4
+- After that, you do a full shutdown
 
-Normal Use
-Ensure xgpu power is off (no light in the xgpu power button), and X1 is powered off.
-Connect oculink to X1
-Press the power button on xgpu (so you see the light in the power button)
-Press the power button on X1, you will see the light of power button on X1, and together the LED light of xgpu
-Until you see the OneXPlayer appeared on the screen, plug in the usb4 cable from xgpu.
-It is all done, you are now using oculink and usb4 together with your xgpu.
+### Normal Use
+- Ensure xgpu power is off (no light in the xgpu power button), and X1 is powered off.
+- Connect oculink to X1
+- Press the power button on xgpu (so you see the light in the power button)
+- Press the power button on X1, you will see the light of power button on X1, and together the LED light of xgpu
+- Until you see the OneXPlayer appeared on the screen, plug in the usb4 cable from xgpu.
+- It is all done, you are now using oculink and usb4 together with your xgpu.
 
-For shutdown
-Shutdown normally in OS
-After shutdown, you will see the xgpu LED is still on, you unplug the usb4 cable and wait for xgpu LED goes off. The power button of xgpu is still ON at this moment.
-After the xgpu LED goes off, press the power button of xgpu to turn it off.
-Ensure no LED and no power button light on xgpu, you are now safe to unplug the oculink cable from X1.
+### For shutdown
+- Shutdown normally in OS
+- After shutdown, you will see the xgpu LED is still on, you unplug the usb4 cable and wait for xgpu LED goes off. The power button of xgpu is still ON at this moment.
+- After the xgpu LED goes off, press the power button of xgpu to turn it off.
+- Ensure no LED and no power button light on xgpu, you are now safe to unplug the oculink cable from X1.
 
-Caution about shutdown
-If you keep the power button ON of xgpu, and do not unplug oculink cable, power will still go from xgpu to X1.
-At this situation, xgpu will become very HOT few minutes later, even if X1 is not powered on.
-So remember to make sure xgpu power button light is off and unplug the oculink cable if you are not using it.
+### Caution about shutdown
+- If you keep the power button ON of xgpu, and do not unplug oculink cable, power will still go from xgpu to X1.
+- At this situation, xgpu will become very HOT few minutes later, even if X1 is not powered on.
+- So remember to make sure xgpu power button light is off and unplug the oculink cable if you are not using it.
 
 ...
 [Onexplayer X1 and EGPU Guide](../main/README.md)
