@@ -9,6 +9,8 @@ This guide will constantly be updated with new information as it becomes availab
 
 - [BIOS WINDOWS RECOVERY](../main/WinRecovery.md)
 
+- [Uninstalling/Reinstalling Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
+
 - [THROTTLESTOP GUIDE](../main/ThrottleStop-X1.md)
 
 - [eGPU Installation Guide](../main/eGPU-install.md)
@@ -16,8 +18,6 @@ This guide will constantly be updated with new information as it becomes availab
 - [eGPU Troubleshooting](../main/eGPU-troubleshoot.md)
 
 - [Battery-Protection-Fix](../main/Battery-Protection-Fix.md)
-
-- [Uninstalling/Reinstalling Onexconsole](../main/PROBLEMS-WITH-ONEXCONSOLE.md)
 
 - [OLD - BIOS 242 + EC065](../main/BIOS242EC065.md)
 
